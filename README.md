@@ -1,63 +1,72 @@
-# Hi, I'm Meryeme Bouchrit 👋
+<h1 align="center">Hi 👋, I'm Meryeme Bouchrit</h1>
 
-🎓 Student at **1337 Benguerir (42 Network)**
+<h3 align="center">42 Student @ 1337 Benguerir | C & C++ Developer | ft_irc & Inception</h3>
 
-💻 Passionate about **C, C++, Linux, Networking and System Programming**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mbouchri&label=Profile%20views&color=0e75b6&style=flat" alt="mbouchri" />
+</p>
 
-🚀 Currently working on **ft_irc** and **Inception**
+<br/>
+
+<p align="center">
+  <img width="90%" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 42 Network Student
-* 💻 C / C++ Developer
-* 🐧 Linux Enthusiast
-* 🌐 Interested in Networking and System Programming
-* 🚀 Always learning and building new projects
+* 🎓 Student at **1337 Benguerir (42 Network)**
+* 💻 Passionate about **C, C++, Linux and Networking**
+* 🚀 Currently working on **ft_irc** and **Inception**
+* 🌱 Learning advanced C++, networking and Docker
 
 ---
 
-## 🎯 Current Projects
+## 🛠️ Tech Stack
 
-* 📡 ft_irc
-* 🐳 Inception
-* 📚 CPP Modules
-
----
-
-## 🛠️ Technologies
-
-* C
-* C++
-* Linux
-* Git
-* Docker
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
 ---
 
 ## 🎓 42 Network
 
-https://badge.mediaplus.ma/greenbinary/mbouchri
+🏫 Campus: 1337 Benguerir
 
-Campus: **1337 Benguerir**
+👤 Login: mbouchri
 
-Login: **mbouchri**
+📚 Completed Projects:
 
----
-
-## 📂 Featured Projects
-
-* Minishell
+* Libft
+* ft_printf
+* get_next_line
+* push_swap
+* so_long
+* minitalk
 * Philosophers
+* Minishell
 * Cub3D
+
+🚀 Current Projects:
+
 * ft_irc
 * Inception
+* CPP Modules
 
 ---
 
-## 📫 Contact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=tokyonight" />
+</p>
 
-* GitHub: @mbouchri
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbouchri&theme=tokyonight" />
+</p>
 
-> "Keep learning. Keep building."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=tokyonight" />
+</p>
