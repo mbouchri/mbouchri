@@ -1,22 +1,30 @@
-<h1 align="center">🌷 Hi, I'm Meryeme Bouchrit 🌷</h1>
+<div align="center">
 
-<h3 align="center">
-42 Student @ 1337 Benguerir • C/C++ Developer • Linux Enthusiast
-</h3>
+# 🌷 Hi, I'm Meryeme 🌷
+
+### 42 Student @ 1337 Benguerir • C/C++ Developer • Linux Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=mbouchri&label=Profile%20Views&color=bb9af7&style=flat" alt="profile views" />
+
+</div>
+
+<br/>
 
 <p align="center">
-✨ Building cool things one project at a time ✨
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=learn();%20code();%20debug();%20repeat();&fontSize=40&animation=fadeIn&fontAlignY=45" />
 </p>
 
----
+<br/>
 
-### 🌸 About Me
+<div align="center">
 
-💻 Passionate about C and C++
+## 💜 About Me
 
-🐧 Linux enthusiast
+🎓 Student at **1337 Benguerir (42 Network)**
 
-📡 Interested in Networking & System Programming
+💻 Passionate about **C, C++, Linux and System Programming**
+
+📡 Interested in **Networking & Backend Development**
 
 🚀 Currently working on:
 
@@ -24,63 +32,76 @@
 * Inception
 * CPP Modules
 
----
+</div>
 
-### 🩷 Tech Stack
+<br/>
 
-<p align="center">
+<div align="center">
 
-💻 C • C++
+## 🛠️ Technologies
 
-🐧 Linux
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-🌿 Git
+</div>
 
-🐳 Docker
+<br/>
 
-📡 Networking
+<div align="center">
 
-</p>
+## 🎓 42 Journey
 
----
+🏫 Campus: **1337 Benguerir**
 
-### 🎓 42 Journey
+👤 Login: **mbouchri**
 
-🏫 Campus: 1337 Benguerir
+📚 Completed Projects
 
-👤 Login: mbouchri
+Libft • ft_printf • get_next_line • push_swap • so_long • minitalk • Philosophers • Minishell • Cub3D
 
-📚 Completed:
+🚀 Current Projects
 
-* Libft
-* ft_printf
-* get_next_line
-* push_swap
-* so_long
-* minitalk
-* Philosophers
-* Minishell
-* Cub3D
+ft_irc • Inception • CPP Modules
 
-🚀 Current:
+</div>
 
-* ft_irc
-* Inception
+<br/>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+## 🌸 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=rose_pine" />
-</p>
+<a href="https://github.com/mbouchri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=rose_pine" />
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-🌷 Keep learning • Keep building • Keep growing 🌷
-</p>
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=rose_pine&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbouchri&theme=rose-pine&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=rose_pine&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌷 Keep Learning • Keep Building • Keep Growing 🌷
+
+</div>
