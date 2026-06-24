@@ -1,45 +1,56 @@
-<h1 align="center">Hi 👋, I'm Meryeme Bouchrit</h1>
+<h1 align="center">🌷 Hi, I'm Meryeme Bouchrit 🌷</h1>
 
-<h3 align="center">42 Student @ 1337 Benguerir | C & C++ Developer | ft_irc & Inception</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbouchri&label=Profile%20views&color=0e75b6&style=flat" alt="mbouchri" />
-</p>
-
-<br/>
+<h3 align="center">
+42 Student @ 1337 Benguerir • C/C++ Developer • Linux Enthusiast
+</h3>
 
 <p align="center">
-  <img width="90%" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" />
+✨ Building cool things one project at a time ✨
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🌸 About Me
 
-* 🎓 Student at **1337 Benguerir (42 Network)**
-* 💻 Passionate about **C, C++, Linux and Networking**
-* 🚀 Currently working on **ft_irc** and **Inception**
-* 🌱 Learning advanced C++, networking and Docker
+💻 Passionate about C and C++
 
----
+🐧 Linux enthusiast
 
-## 🛠️ Tech Stack
+📡 Interested in Networking & System Programming
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+🚀 Currently working on:
+
+* ft_irc
+* Inception
+* CPP Modules
 
 ---
 
-## 🎓 42 Network
+### 🩷 Tech Stack
+
+<p align="center">
+
+💻 C • C++
+
+🐧 Linux
+
+🌿 Git
+
+🐳 Docker
+
+📡 Networking
+
+</p>
+
+---
+
+### 🎓 42 Journey
 
 🏫 Campus: 1337 Benguerir
 
 👤 Login: mbouchri
 
-📚 Completed Projects:
+📚 Completed:
 
 * Libft
 * ft_printf
@@ -51,22 +62,25 @@
 * Minishell
 * Cub3D
 
-🚀 Current Projects:
+🚀 Current:
 
 * ft_irc
 * Inception
-* CPP Modules
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=rose_pine" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbouchri&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=tokyonight" />
+🌷 Keep learning • Keep building • Keep growing 🌷
 </p>
