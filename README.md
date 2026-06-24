@@ -38,7 +38,7 @@
 
 ## 🎓 42 Network
 
-![42 Badge](https://badge.mediaplus.ma/greenbinary/mbouchri)
+https://badge.mediaplus.ma/greenbinary/mbouchri
 
 Campus: **1337 Benguerir**
 
