@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 🌷 Hi, I'm Meryeme 🌷
 
@@ -104,4 +104,4 @@ ft_irc • Inception • CPP Modules
 
 ### 🌷 Keep Learning • Keep Building • Keep Growing 🌷
 
-</div>
+</div> -->
