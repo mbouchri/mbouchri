@@ -1,38 +1,26 @@
 # Hi, I'm Meryeme 👋
 
-### 🎓 About Me
+🎓 Student at 1337 Benguerir (42 Network)
 
-* Student at 42 Network
-* Passionate about C, C++ and System Programming
-* Currently working on ft_irc and Inception
-* Interested in Networking, Linux and Software Engineering
+💻 C / C++ Developer
 
-### 🚀 Current Projects
+🚀 Currently working on:
+- CPP Modules
+- ft_irc
+- Inception
 
-* CPP Modules
-* ft_irc
-* Inception
+## 42 Profile
 
-### 🛠️ Technologies
+[42 level card here]
 
-* C
-* C++
-* Linux
-* Git
-* Docker
+## Technologies
 
-### 📈 GitHub Stats
+C • C++ • Linux • Git • Docker
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbouchri\&show_icons=true)
+## Featured Projects
 
-### 🌱 Currently Learning
-
-* Network Programming
-* IRC Protocol
-* Docker & DevOps
-
-### 📫 Contact
-
-* GitHub: @mbouchri
-
-> "Keep learning. Keep building."
+- Minishell
+- Philosophers
+- Cub3D
+- ft_irc
+- Inception
