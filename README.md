@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Meryeme 👋
 
-<!--
-**mbouchri/mbouchri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
 
-Here are some ideas to get you started:
+* Student at 42 Network
+* Passionate about C, C++ and System Programming
+* Currently working on ft_irc and Inception
+* Interested in Networking, Linux and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+
+* CPP Modules
+* ft_irc
+* Inception
+
+### 🛠️ Technologies
+
+* C
+* C++
+* Linux
+* Git
+* Docker
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbouchri\&show_icons=true)
+
+### 🌱 Currently Learning
+
+* Network Programming
+* IRC Protocol
+* Docker & DevOps
+
+### 📫 Contact
+
+* GitHub: @mbouchri
+
+> "Keep learning. Keep building."
