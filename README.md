@@ -1,26 +1,63 @@
-# Hi, I'm Meryeme 👋
+# Hi, I'm Meryeme Bouchrit 👋
 
-🎓 Student at 1337 Benguerir (42 Network)
+🎓 Student at **1337 Benguerir (42 Network)**
 
-💻 C / C++ Developer
+💻 Passionate about **C, C++, Linux, Networking and System Programming**
 
-🚀 Currently working on:
-- CPP Modules
-- ft_irc
-- Inception
+🚀 Currently working on **ft_irc** and **Inception**
 
-## 42 Profile
+---
 
-[42 level card here]
+## 👩‍💻 About Me
 
-## Technologies
+* 🎓 42 Network Student
+* 💻 C / C++ Developer
+* 🐧 Linux Enthusiast
+* 🌐 Interested in Networking and System Programming
+* 🚀 Always learning and building new projects
 
-C • C++ • Linux • Git • Docker
+---
 
-## Featured Projects
+## 🎯 Current Projects
 
-- Minishell
-- Philosophers
-- Cub3D
-- ft_irc
-- Inception
+* 📡 ft_irc
+* 🐳 Inception
+* 📚 CPP Modules
+
+---
+
+## 🛠️ Technologies
+
+* C
+* C++
+* Linux
+* Git
+* Docker
+
+---
+
+## 🎓 42 Network
+
+![42 Badge](https://badge.mediaplus.ma/greenbinary/mbouchri)
+
+Campus: **1337 Benguerir**
+
+Login: **mbouchri**
+
+---
+
+## 📂 Featured Projects
+
+* Minishell
+* Philosophers
+* Cub3D
+* ft_irc
+* Inception
+
+---
+
+## 📫 Contact
+
+* GitHub: @mbouchri
+
+> "Keep learning. Keep building."
