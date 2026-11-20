@@ -1,112 +1,83 @@
 <div align="center">
 
-# Hi there, I'm Meryeme! 👋
+# Hi, I'm Meryeme Bouchrit 👋
 
-### Software Engineering Student | 1337 Coding School | 42 Network
+### Software Engineering Student · 1337 Coding School · 42 Network
 
-*Passionate about software development, problem-solving, and building reliable systems.*
+*Building reliable software, one project at a time.*
 
-[![42 Intra](https://img.shields.io/badge/42_Intra-mbouchri-8A2BE2?style=for-the-badge)](https://profile-v3.intra.42.fr/users/mbouchri)
-[![GitHub](https://img.shields.io/badge/GitHub-mbouchri-181717?style=for-the-badge&logo=github)](https://github.com/mbouchri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryeme-bouchrit-a8baa7213/)
+[![42 Intra](https://img.shields.io/badge/42-Intra_Profile-6D28D9?style=for-the-badge)](https://profile-v3.intra.42.fr/users/mbouchri)
+[![GitHub](https://img.shields.io/badge/GitHub-mbouchri-171321?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbouchri)
 
-<br>
+<br/>
 
-<a href="https://profile-v3.intra.42.fr/users/mbouchri">
-  <img src="https://badge.mediaplus.ma/violetbinary/mbouchri" alt="Meryeme's 42 Network Badge" width="420"/>
-</a>
-
-</div>
-
----
-
-### 👩‍💻 About Me
-
-I'm **Meryeme Bouchrit**, a software engineering student at **1337 Coding School**, part of the international **42 Network**.
-
-My academic journey focuses on developing strong foundations in computer science through hands-on projects, peer learning, and collaborative problem-solving.
-
-- 🎓 Studying at **1337 Coding School — 42 Network**
-- 💻 Experienced with **C, C++, Linux, and system programming**
-- 🐳 Exploring **Docker, networking, and web development**
-- 🚀 Currently working on **ft_transcendence**
-- 🌱 Continuously learning and improving my development skills
-- 🎯 Interested in **software engineering and backend development**
-
----
-
-### 🏫 42 Network Journey
-
-<div align="center">
-
-[![42 Level](https://img.shields.io/badge/42_Level-9.04-8A2BE2?style=for-the-badge)](https://profile-v3.intra.42.fr/users/mbouchri)
-![Common Core](https://img.shields.io/badge/Common_Core-87%25_Complete-6A5ACD?style=for-the-badge)
+[![42 progress for mbouchri](https://badge.mediaplus.ma/binary/mbouchri)](https://profile-v3.intra.42.fr/users/mbouchri)
 
 </div>
 
 ---
 
-### 🛠️ Technical Skills
+### About me
 
-**Programming Languages**
+I'm a software engineering student at **1337 Coding School**, part of the **42 Network**. I enjoy solving complex problems and learning by building practical projects, particularly in **C/C++, Unix systems, networking, and backend development**.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+- 🔭 Currently working on **ft_transcendence**, a collaborative web application.
+- 🧠 Interested in **backend engineering, systems programming, and software architecture**.
+- 🤝 Comfortable with peer learning, code reviews, and team projects.
+- 🌱 Always learning new technologies and improving my engineering skills.
 
-**Tools & Technologies**
+### Tech stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+**Languages**
 
-**Core Competencies**
+![C](https://img.shields.io/badge/C-171321?style=flat-square&logo=c&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-171321?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![Bash](https://img.shields.io/badge/Bash-171321?style=flat-square&logo=gnubash&logoColor=A78BFA)
 
-`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `Unix Systems` · `Networking` · `Multithreading` · `Docker` · `Problem Solving`
+**Tools & environments**
 
----
+![Linux](https://img.shields.io/badge/Linux-171321?style=flat-square&logo=linux&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-171321?style=flat-square&logo=docker&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-171321?style=flat-square&logo=git&logoColor=A78BFA)
+![GitHub](https://img.shields.io/badge/GitHub-171321?style=flat-square&logo=github&logoColor=A78BFA)
 
-### 🚀 Selected Projects
+**Concepts:** Object-Oriented Programming · Data Structures & Algorithms · Unix · TCP/IP · Multithreading · Containerization
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **Minishell** | Building a Unix shell with command execution, pipes, and redirections | C, Unix |
-| **Cub3D** | Developing a 3D raycasting engine inspired by classic FPS games | C, MiniLibX |
-| **ft_irc** | Implementing an IRC server using socket programming | C++98, TCP/IP |
-| **Inception** | Deploying a containerized infrastructure with Docker Compose | Docker, NGINX, MariaDB |
-| **C++ Modules 00–09** | Exploring OOP, templates, STL containers, and algorithms | C++98 |
-| **ft_transcendence** | Developing a collaborative web application | In Progress |
+### Selected projects
 
----
+| Project | What I built / learned |
+| --- | --- |
+| **ft_irc** | IRC server in C++98, TCP/IP sockets, client-server communication |
+| **minishell** | Unix shell, process management, pipes, redirections |
+| **cub3d** | Raycasting engine, graphics, and interactive rendering |
+| **Inception** | Dockerized NGINX, WordPress, and MariaDB infrastructure |
+| **C++ Modules 00–09** | OOP, polymorphism, exceptions, templates, STL and algorithms |
+| **ft_transcendence** | Collaborative web application · **In progress** |
 
-### 📊 GitHub Statistics
+### GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mbouchri&show_icons=true&hide_border=true&bg_color=171321&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6" alt="Meryeme's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&hide_border=true&bg_color=171321&title_color=A78BFA&text_color=E9D5FF" alt="Most used languages" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbouchri&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
+<br/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=mbouchri&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=mbouchri&hide_border=true&background=171321&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=9CA3AF" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
-
 <div align="center">
 
-I'm always interested in learning, collaborating, and exploring new opportunities.
+### Let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbouchri)
-[![42 Intra](https://img.shields.io/badge/42_Network-000000?style=for-the-badge)](https://profile-v3.intra.42.fr/users/mbouchri)
+I'm always happy to connect with developers and collaborate on interesting projects.
 
-<br>
+[LinkedIn](https://www.linkedin.com/in/meryeme-bouchrit-a8baa7213/) · [GitHub](https://github.com/mbouchri) · [42 Intra](https://profile-v3.intra.42.fr/users/mbouchri)
 
-*Learning. Building. Improving.*
+<sub>Learning · Building · Improving</sub>
 
 </div>
