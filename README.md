@@ -1,20 +1,17 @@
 <!-- GitHub profile README | github.com/mbouchri -->
 <div align="center">
 
-<!-- Minimal, purple, terminal-inspired header: no custom image required -->
+<!-- Clean editorial hero: no boxed terminal banner -->
 
-```text
-╭──────────────────────────────────────────────────────╮
-│  > hello_world();                                    │
-│                                                      │
-│  MERYEME BOUCHRIT                                   │
-│  Software Engineering · 1337 / 42 Network            │
-│                                                      │
-│  build  •  learn  •  improve                         │
-╰──────────────────────────────────────────────────────╯
-```
+<br />
 
-### Hi, I'm Meryeme 👋
+# ✦ MERYEME BOUCHRIT ✦
+
+### `software engineering`  ·  `backend development`  ·  `42 network`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;C+%2F+C%2B%2B+%E2%86%92+Python+%26+Django;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction: turning ideas into working software" />
+
+<br />
 
 **Software Engineering Student** · **1337 Coding School / 42 Network** · **Morocco**
 
@@ -26,7 +23,7 @@
 
 ---
 
-## ✦ About me
+## 01 / About me
 
 I'm a software engineering student at **1337 Coding School**, part of the **42 Network**. I enjoy turning challenging problems into working software, especially in **C/C++**, **Unix systems**, and **backend development**.
 
@@ -36,12 +33,12 @@ I'm a software engineering student at **1337 Coding School**, part of the **42 N
 - 🎯 **My focus:** writing maintainable software and growing as a backend/software engineer.
 - 🤝 **Open to:** collaboration and software engineering internship opportunities.
 
-## ✦ My 42 journey
+## 02 / My 42 journey
 
 <div align="center">
 
 <a href="https://profile-v3.intra.42.fr/users/mbouchri">
-  <img src="https://badge.mediaplus.ma/greenbinary/mbouchri" alt="Live 42 Network progress badge for mbouchri" width="480" />
+  <img src="https://badge.mediaplus.ma/black/mbouchri" alt="Live 42 Network progress badge for mbouchri" width="480" />
 </a>
 
 <br />
@@ -53,7 +50,7 @@ I'm a software engineering student at **1337 Coding School**, part of the **42 N
 
 </div>
 
-## ✦ Tech stack
+## 03 / Tech stack
 
 **Languages I work with**
 
@@ -76,7 +73,7 @@ I'm a software engineering student at **1337 Coding School**, part of the **42 N
 
 `Algorithms` · `Data Structures` · `OOP` · `Unix` · `TCP/IP` · `Multithreading` · `Containers`
 
-## ✦ Selected projects
+## 04 / Selected projects
 
 <table>
 <tr>
@@ -139,7 +136,7 @@ A multi-service environment with NGINX, WordPress/PHP-FPM, and MariaDB.
 
 > **Now building:** `ft_transcendence` — applying my systems background to a full-stack web project.
 
-## ✦ GitHub activity
+## 05 / GitHub activity
 
 <div align="center">
 
